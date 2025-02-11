@@ -1,5 +1,14 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background: white;
+}
+#LolExcuse {
+    font-size: xx-large;
+}
+.fixed-bottomp-4{
+    font-size: x-large;
+    position: absolute;
+    left: 725px;
+    bottom: 20px;
 }
