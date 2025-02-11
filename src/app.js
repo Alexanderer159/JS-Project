@@ -16,6 +16,6 @@ function Randomizer(arr) {
 }
 const randomExcuse = `${Randomizer(who)} ${Randomizer(action)} ${Randomizer(what)} ${Randomizer(when)}`
 
-document.getElementById("LolExcuse").innerHTML = randomExcuse; //Gonna be honest, i had to look online how to get a command line into HTML front
+document.getElementById("LolExcuse").innerHTML = randomExcuse;
 ;
 }
